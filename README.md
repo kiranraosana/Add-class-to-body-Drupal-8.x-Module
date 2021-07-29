@@ -10,6 +10,5 @@ This module works out of the box, once you enable it there is no need to configu
 
 ### Usage
 This module is useful for cases when specific pages need custom styling.
-Target page using unique node ID as following CSS class (replace 123 with targeted node ID):
 
 ```.path-<node-slug-name>```
